@@ -1,0 +1,4 @@
+2022-02-02 20:53:24.824571
+hash
+(('Test.txt',), {})
+<generator object hash at 0x00A91870>
